@@ -38,9 +38,12 @@
 <hr/>
 
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-   <img src="https://github-profile-trophy.vercel.app/?username=cyphahydra&theme=onedark" alt="trophy" />
- </a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=ryo-ma" 
+      alt="GitHub Profile Trophy"
+    />
+  </a>
 </p>
 
 
