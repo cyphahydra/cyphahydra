@@ -40,11 +40,12 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=ryo-ma" 
+      src="https://github-profile-trophy.vercel.app/?username=cyphahydra&theme=onedark" 
       alt="GitHub Profile Trophy"
     />
   </a>
 </p>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
