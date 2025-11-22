@@ -1,5 +1,4 @@
 <h1 align="center"> Hi, I am Cypha Hydra! </h1>
-![trophy](https://github-profile-trophy.vercel.app/?username=cyphahydra&theme=onedark)
 
 <p> 
 <a href="https://github.com/cyphahydra"><img alt="Cypha Hydra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=cyphahydra&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -39,8 +38,9 @@
 <hr/>
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=cyphahydra&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyphahydra&theme=onedark" alt="trophy" />
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
