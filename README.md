@@ -38,7 +38,7 @@
 <hr/>
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=cyphahydra&theme=dracula" with="100"/>
+ <img  width="1000" src="https://github-profile-trophy.vercel.app/?username=cyphahydra&theme=tokyonight" />
 </p>
 
 
