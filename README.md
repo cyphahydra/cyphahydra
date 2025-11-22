@@ -39,8 +39,7 @@
 
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox" width="100%" />
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox" alt="GitHub Trophies" />
-
+ <img src="https://camo.githubusercontent.com/1ea04fd796812888965fc6d03b0d80ae933fba35013146d6d754b66abf1a71d2/68747470733a2f2f737461626c652d6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6f62727574757326726f773d3226636f6c756d6e3d33267468656d653d6f6e656461726b266d617267696e2d773d3135266d617267696e2d683d3135" alt="trophy" data-canonical-src="https://stable-github-profile-trophy.vercel.app/?username=obrutus&amp;row=2&amp;column=3&amp;theme=onedark&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
