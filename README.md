@@ -38,7 +38,8 @@
 <hr/>
 
 <p align="center">
-<img  width="1000" src="https://github.com/ryo-ma/github-profile-trophy/?username=cyphahydra&theme=tokyonight" /> 
+<img  width="1000" src="https://github-profile-trophy.vercel.app/?username=cyphahydra&theme=tokyonight" /> 
+ # [![trophy](https://github-profile-trophy.vercel.app/?username=cyphahydra)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
