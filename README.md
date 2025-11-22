@@ -38,7 +38,7 @@
 <hr/>
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark;row=2&amp;column=3&amp;theme=onedark&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
+ <img src="https://github-profile-trophy.vercel.app/?username=cyphahydra&theme=onedark;theme=onedark&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
